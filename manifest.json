@@ -1,0 +1,18 @@
+{
+ "format_version": 2,
+ "header": {
+   "description": "CAYMANKUN-PVP-Pack",
+   "name": "CAYMANKUN-PVPP",
+   "uuid":"338b7767-57fe-46ad-aac2-e70f64f8188d",
+   "version": [1, 0, 0],
+   "min_engine_version": [1, 16, 0]
+  },
+ "modules": [
+   {
+     "description": "My First Add-On!",
+     "type": "resources",
+     "uuid": "27c4eb10-12c8-4956-9433-4e6588f221da",
+     "version": [1, 0, 0]
+   }
+ ]
+}
